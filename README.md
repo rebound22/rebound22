@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rebound22
 - 👀 I’m interested in ai/ml
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on opportunities which help me know more about ai/ml
+- 💞️ I’m looking to collaborate on opportunities which help me learn about ai/ml
 - 📫 How to reach me ...
 
 <!---
